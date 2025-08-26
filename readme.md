@@ -162,6 +162,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 * [.NET Aspire for Beginners - Full Series](https://www.youtube.com/watch?v=4ixWtXK7KzY) - A 1h30 video to fully dive into .NET Aspire.
 * [.NET Aspire Playlist](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWTWWbWXqhn2w8NM3sQ_qDz) - A YouTube Playlist that contains dozens of videos regarding .NET Aspire.
+* [AspiriFridays](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUaQPBuCHVscl4OC7E6EMTn) - A YouTube Playlist that contains videos of projects converted to .NET Aspire, on fridays.
 * [Custom Tracing with .NET Aspire](https://www.youtube.com/watch?v=vnQg0I5PAUA) - This video talk about adding custom tracing to your application and how it appears on the .NET Aspire dashboard.
 * [Custom Metrics with .NET Aspire](https://www.youtube.com/watch?v=mwxJBv0kmcg) - This video talk about adding custom metrics to your application to measure the performance of a feature.
 * [Adding Custom Health Checks with .NET Aspire](https://www.youtube.com/watch?v=HuogJghWBks) - This video talk about adding custom health checks and the HealthChecks UI to your application.
