@@ -42,7 +42,8 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 * [Azure AI Inference](https://www.nuget.org/packages/Aspire.Azure.AI.Inference) - A client integration for connecting to Azure AI Foundry and GitHub Models.
 * [GitHub Models](https://www.nuget.org/packages/Aspire.Hosting.GitHub.Models/) - The .NET Aspire GitHub Models integration, provides access to various AI models including OpenAI's GPT models, DeepSeek, Microsoft's Phi models, and other leading AI models, all accessible through GitHub's infrastructure.
 * [Ollama](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Ollama/) - An Aspire hosting integration leveraging the Ollama container with support for downloading a model on startup, with [client](https://www.nuget.org/packages/CommunityToolkit.Aspire.OllamaSharp/) integration.
-* [Open AI](https://www.nuget.org/packages/Aspire.Hosting.OpenAI) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure OpenAI resources and models.
+* [Open AI](https://www.nuget.org/packages/Aspire.Hosting.OpenAI) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure OpenAI resources and models. ‼️ Invalid link
+
 
 ### Authentication and Authorization
 
