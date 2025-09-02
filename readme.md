@@ -28,6 +28,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
   * [Storage](#storage)
   * [Testing](#testing)
   * [Tools](#tools)
+* [Sample Projects](#sample-projects)
 * [Videos](#videos)
 * [Community](#community)
 
@@ -161,6 +162,15 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 * [ngrok](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Ngrok/) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure a ngrok container.
 * [Orleans](https://www.nuget.org/packages/Aspire.Hosting.Orleans) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure an Orleans cluster.
 * [YARP](https://www.nuget.org/packages/Aspire.Hosting.Yarp/) - The .NET Aspire YARP integration enables you to create containerized YARP reverse proxy instances with programmatic configuration or external configuration files.
+
+## Sample Projects
+
+* [aspire-samples](https://github.com/dotnet/aspire-samples) - Official repository of samples for .NET Aspire. 
+* [eShop](https://github.com/dotnet/eShop) - An official .NET repository that demonstrates a complete .NET application implementing an eCommerce site.
+* [net-aspire-app](https://github.com/leventozz/net-aspire-app) - A basic project with a web frontend, a .NET Core Web API and a Redis cache.
+* [PizzaShop](https://github.com/iancooper/PizzaShop) - PizzaShop is an example of a messaging pipeline, using Azure Service Bus and Kafka.
+* [Aspire AI Chat](https://github.com/davidfowl/aspire-ai-chat-demo) - Aspire AI Chat is a full-stack chat sample that combines modern technologies to deliver a ChatGPT-like experience.
+* [Url Shortener API](https://github.com/poorna-soysa/url-shortener-app) - This repository showcases a sample API built with .NET 9 that demonstrates the integration of .NET Aspire orchestration. The application utilizes PostgreSQL as database, and Redis for caching.
 
 ## Videos
 
