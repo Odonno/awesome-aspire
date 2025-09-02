@@ -1,5 +1,7 @@
 # Awesome .NET Aspire [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Aspire provides tools, templates, and packages for building observable, production-ready distributed apps. Aspire gives you a unified toolchain: launch and debug your entire app locally with one command, then deploy anywhere—Kubernetes, the cloud, or your own servers—using the same composition.
+
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Odonno/awesome-aspire/blob/main/contributing.md) pages first. We accept proprietary and commercial software too.
