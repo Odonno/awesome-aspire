@@ -68,7 +68,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 * [Azure CosmosDB](https://www.nuget.org/packages/Aspire.Hosting.Azure.CosmosDB) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure Azure CosmosDB, with [client](https://www.nuget.org/packages/Aspire.Microsoft.Azure.Cosmos) integration.
 * [Azure Event Hubs](https://www.nuget.org/packages/Aspire.Hosting.Azure.EventHubs) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure Azure Event Hubs, with [client](https://www.nuget.org/packages/Aspire.Azure.Messaging.EventHubs) integration.
 * [Azure Functions](https://www.nuget.org/packages/Aspire.Hosting.Azure.Functions) - Provides methods to the .NET Aspire hosting model for Azure functions.
-* [Azure Key Vault](https://www.nuget.org/packages/Aspire.Hosting.Azure.KeyVault) - Azure Key Vault is a cloud service that provides a secure storage of secrets, such as passwords and database connection strings, with [client](https://www.nuget.org/packages/Aspire.Azure.Security.KeyVault) integration.
+* [Azure Key Vault](https://www.nuget.org/packages/Aspire.Hosting.Azure.KeyVault) - Support for Azure Key Vault, a cloud service that provides a secure storage of secrets, such as passwords and database connection strings, with [client](https://www.nuget.org/packages/Aspire.Azure.Security.KeyVault) integration.
 * [Azure Operational Insights](https://www.nuget.org/packages/Aspire.Hosting.Azure.OperationalInsights) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure Azure Log Analytics.
 * [Azure PostgreSQL](https://www.nuget.org/packages/Aspire.Hosting.Azure.PostgreSQL) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure Azure Database for PostgreSQL.
 * [Azure Service Bus](https://www.nuget.org/packages/Aspire.Hosting.Azure.ServiceBus) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure Azure Service Bus, with [client](https://www.nuget.org/packages/Aspire.Azure.Messaging.ServiceBus) integration.
@@ -95,7 +95,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 * [MongoDB](https://www.nuget.org/packages/Aspire.Hosting.MongoDB/) - An Aspire hosting integration for MongoDB, with [client](https://www.nuget.org/packages/Aspire.MongoDB.Driver/) integration.
 * [MongoDB extensions](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.MongoDB.Extensions/) - An integration that contains some additional extensions for hosting MongoDB container.
 * [MySQL](https://www.nuget.org/packages/Aspire.Hosting.MySql/) - An Aspire hosting integration for MySQL, with [client](https://www.nuget.org/packages/Aspire.MySqlConnector/) integration.
-* [MySQL extensions](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.MySql.Extensions/) - An integration that contains some additional extensions for hosting MySql container.
+* [MySQL extensions](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.MySql.Extensions/) - An integration that contains some additional extensions for hosting MySQL container.
 * [Oracle](https://www.nuget.org/packages/Aspire.Hosting.Oracle/) - An Aspire hosting integration for Oracle.
 * [PostgreSQL](https://www.nuget.org/packages/Aspire.Hosting.PostgreSQL/) - An Aspire hosting integration for PostgreSQL, with [client](https://www.nuget.org/packages/Aspire.Npgsql/) integration.
 * [PostgreSQL extensions](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.PostgreSQL.Extensions/) - An integration that contains some additional extensions for hosting PostgreSQL container.
@@ -128,7 +128,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 * [Aspire.Npgsql.EntityFrameworkCore.PostgreSQL](https://www.nuget.org/packages/Aspire.Npgsql.EntityFrameworkCore.PostgreSQL) - Registers EntityFrameworkCore DbContext in the DI container for connecting PostgreSQL database.
 * [Aspire.Azure.Npgsql.EntityFrameworkCore.PostgreSQL](https://www.nuget.org/packages/Aspire.Azure.Npgsql.EntityFrameworkCore.PostgreSQL) - Registers EntityFrameworkCore DbContext in the DI container for connecting to PostgreSQL and Azure Database for PostgreSQL.
 * [Aspire.Oracle.EntityFrameworkCore](https://www.nuget.org/packages/Aspire.Oracle.EntityFrameworkCore) - Registers EntityFrameworkCore DbContext service for connecting Oracle database.
-* [Aspire.Pomelo.EntityFrameworkCore.MySql](https://www.nuget.org/packages/Aspire.Pomelo.EntityFrameworkCore.MySql) - Registers EntityFrameworkCore DbContext in the DI container for connecting MySql database.
+* [Aspire.Pomelo.EntityFrameworkCore.MySql](https://www.nuget.org/packages/Aspire.Pomelo.EntityFrameworkCore.MySql) - Registers EntityFrameworkCore DbContext in the DI container for connecting MySQL database.
 * [Microsoft.EntityFrameworkCore.Sqlite](https://www.nuget.org/packages/CommunityToolkit.Aspire.Microsoft.EntityFrameworkCore.Sqlite/) - An Aspire client integration for the Microsoft.EntityFrameworkCore.Sqlite NuGet package.
 
 ### Programming languages
@@ -139,7 +139,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 * [Java](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Java) - An integration for running Java code in .NET Aspire either using the local JDK or using a container.
 * [Node.js](https://www.nuget.org/packages/Aspire.Hosting.NodeJs) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure a Node.js project.
 * [Node.js extensions](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.NodeJS.Extensions) - An integration that contains some additional extensions for running Node.js applications.
-* [Python](https://www.nuget.org/packages/Aspire.Hosting.Python) - Python support for .NET Aspire.
+* [Python](https://www.nuget.org/packages/Aspire.Hosting.Python) - Support of Python for .NET Aspire.
 * [Python extensions](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Python.Extensions) - An integration that contains some additional extensions for running python applications.
 * [Rust](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Rust) - A hosting integration for the Rust apps.
 
@@ -174,8 +174,8 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 * [aspire-samples](https://github.com/dotnet/aspire-samples) - Official repository of samples for .NET Aspire. 
 * [eShop](https://github.com/dotnet/eShop) - An official .NET repository that demonstrates a complete .NET application implementing an eCommerce site.
 * [net-aspire-app](https://github.com/leventozz/net-aspire-app) - A basic project with a web frontend, a .NET Core Web API and a Redis cache.
-* [PizzaShop](https://github.com/iancooper/PizzaShop) - PizzaShop is an example of a messaging pipeline, using Azure Service Bus and Kafka.
-* [Aspire AI Chat](https://github.com/davidfowl/aspire-ai-chat-demo) - Aspire AI Chat is a full-stack chat sample that combines modern technologies to deliver a ChatGPT-like experience.
+* [PizzaShop](https://github.com/iancooper/PizzaShop) - An example of a messaging pipeline, using Azure Service Bus and Kafka.
+* [Aspire AI Chat](https://github.com/davidfowl/aspire-ai-chat-demo) - A full-stack chat sample that combines modern technologies to deliver a ChatGPT-like experience.
 * [Url Shortener API](https://github.com/poorna-soysa/url-shortener-app) - This repository showcases a sample API built with .NET 9 that demonstrates the integration of .NET Aspire orchestration. The application utilizes PostgreSQL as database, and Redis for caching.
 
 ## Videos
@@ -196,4 +196,4 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 ## Community
 
 * [Discord](https://aka.ms/aspire-discord) - The official Aspire Discord server.
-* [aspireify.net](https://aspireify.net/) - Aspireify.NET is a blog regarding .NET Aspire - News, Samples and Tutorials.
+* [aspireify.net](https://aspireify.net/) - A blog regarding .NET Aspire - News, Samples and Tutorials.
