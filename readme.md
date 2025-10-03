@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 ### AI
 
+* [AI Foundry](https://www.nuget.org/packages/Aspire.Hosting.Azure.AIFoundry) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure Azure AI Foundry.
 * [Azure AI Inference](https://www.nuget.org/packages/Aspire.Azure.AI.Inference) - A client integration for connecting to Azure AI Foundry and GitHub Models.
 * [GitHub Models](https://www.nuget.org/packages/Aspire.Hosting.GitHub.Models/) - The .NET Aspire GitHub Models integration, provides access to various AI models including OpenAI's GPT models, DeepSeek, Microsoft's Phi models, and other leading AI models, all accessible through GitHub's infrastructure.
 * [Ollama](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Ollama/) - An Aspire hosting integration leveraging the Ollama container with support for downloading a model on startup, with [client](https://www.nuget.org/packages/CommunityToolkit.Aspire.OllamaSharp/) integration.
@@ -165,6 +166,8 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 * [Azure Data API builder](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Azure.DataApiBuilder/) - A hosting integration for the Azure Data API builder.
 * [Dapr](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Dapr/) - An Aspire hosting integration for Dapr.
+* [DevTunnels](https://www.nuget.org/packages/Aspire.Hosting.DevTunnels/) - Provides extension methods and resource definitions for an Aspire AppHost to expose local application endpoints publicly via a secure dev tunnel.
+* [Docker](https://www.nuget.org/packages/Aspire.Hosting.Docker/) - Provides publishing extensions to .NET Aspire for Docker Compose.
 * [ngrok](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Ngrok/) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure a ngrok container.
 * [Orleans](https://www.nuget.org/packages/Aspire.Hosting.Orleans) - Provides extension methods and resource definitions for a .NET Aspire AppHost to configure an Orleans cluster.
 * [YARP](https://www.nuget.org/packages/Aspire.Hosting.Yarp/) - The .NET Aspire YARP integration enables you to create containerized YARP reverse proxy instances with programmatic configuration or external configuration files.
