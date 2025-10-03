@@ -22,6 +22,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
   * [Databases](#databases)
   * [Feature flags](#feature-flags)
   * [Logging](#logging)
+  * [Mail](#mail)
   * [ORM](#orm)
   * [Programming languages](#programming-languages)
   * [Queue and Messaging](#queue-and-messaging)
@@ -115,6 +116,11 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 * [Seq](https://www.nuget.org/packages/Aspire.Hosting.Seq/) - An Aspire hosting integration for Seq, with [client](https://www.nuget.org/packages/Aspire.Seq/) integration.
 
+### Mail
+
+* [Papercut SMTP](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.PapercutSmtp) - An Aspire component leveraging Papercut SMTP container.
+* [MailPit](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.MailPit/) - An Aspire integration leveraging the MailPit container.
+
 ### ORM
 
 * [Aspire.Microsoft.EntityFrameworkCore.Cosmos](https://www.nuget.org/packages/Aspire.Microsoft.EntityFrameworkCore.Cosmos) - Registers EntityFrameworkCore DbContext in the DI container for connecting to Azure Cosmos DB.
@@ -153,7 +159,6 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 * [Aspire.Hosting.Testing](https://www.nuget.org/packages/Aspire.Hosting.Testing) - Testing support for the .NET Aspire application model.
 * [k6](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.k6/) - An Aspire integration leveraging the Grafana k6 container.
-* [MailPit](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.MailPit/) - An Aspire integration leveraging the MailPit container.
 * [WireMock](https://www.nuget.org/packages/WireMock.Net.Aspire) - Lightweight Http Mocking Server for .NET, inspired by WireMock.org (from the Java landscape).
 
 ### Tools
