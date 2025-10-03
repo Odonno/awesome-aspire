@@ -86,6 +86,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 ### Databases
 
+* [Apache Solr](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Solr/) - An Aspire hosting integration for Apache Solr.
 * [Elasticsearch](https://www.nuget.org/packages/Aspire.Hosting.Elasticsearch/) - An Aspire hosting integration for Elasticsearch, with [client](https://www.nuget.org/packages/Aspire.Elastic.Clients.Elasticsearch/) integration.
 * [EventStore](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.EventStore/) - An Aspire hosting integration leveraging the EventStore container, with [client](https://www.nuget.org/packages/CommunityToolkit.Aspire.EventStore/) integration.
 * [Meilisearch](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Meilisearch/) - An Aspire hosting integration leveraging the Meilisearch container, with [client](https://www.nuget.org/packages/CommunityToolkit.Aspire.Meilisearch/) integration.
