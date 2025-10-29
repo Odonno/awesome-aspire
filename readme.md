@@ -40,6 +40,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 * [.NET Aspire documentation](https://learn.microsoft.com/en-us/dotnet/aspire/) - The official .NET Aspire documentation.
 * [Aspire Roadmap (2025 → 2026)](https://github.com/dotnet/aspire/discussions/10644) - The current .NET Aspire Roadmap, going from 2025 to 2026.
 * [Welcome to .NET Aspire](https://www.youtube.com/watch?v=UYH97nPLWrM&list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD) - A YouTube videos playlist to welcome developers into .NET Aspire.
+* [aspire.dev](https://aspire.dev/) - The official website of the Aspire project.
 
 ## Integrations
 
