@@ -1,10 +1,10 @@
-# Awesome .NET Aspire [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Aspire [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="dotnet-aspire-logo-256.svg" align="right" width="100">](https://github.com/dotnet/aspire)
+[<img src="aspire-logo-256.svg" align="right" width="100">](https://github.com/dotnet/aspire)
 
 Aspire provides tools, templates, and packages for building observable, production-ready distributed apps. Aspire gives you a unified toolchain: launch and debug your entire app locally with one command, then deploy anywhere—Kubernetes, the cloud, or your own servers—using the same composition.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
+Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Odonno/awesome-aspire/blob/main/contributing.md) pages first. We accept proprietary and commercial software too.
 
@@ -35,8 +35,8 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 ## General
 
-* [dotnet/aspire](https://github.com/dotnet/aspire) - Main GitHub repository of the .NET Aspire project.
-* [Aspire Community Toolkit](https://github.com/CommunityToolkit/Aspire) - A GitHub repository for community contributors to add integrations for .NET Aspire.
+* [dotnet/aspire](https://github.com/dotnet/aspire) - Main GitHub repository of the Aspire project.
+* [Aspire Community Toolkit](https://github.com/CommunityToolkit/Aspire) - A GitHub repository for community contributors to add integrations for Aspire.
 * [.NET Aspire documentation](https://learn.microsoft.com/en-us/dotnet/aspire/) - The official .NET Aspire documentation.
 * [Aspire Roadmap (2025 → 2026)](https://github.com/dotnet/aspire/discussions/10644) - The current .NET Aspire Roadmap, going from 2025 to 2026.
 * [Welcome to .NET Aspire](https://www.youtube.com/watch?v=UYH97nPLWrM&list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD) - A YouTube videos playlist to welcome developers into .NET Aspire.
@@ -175,7 +175,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 ## Sample Projects
 
-* [aspire-samples](https://github.com/dotnet/aspire-samples) - Official repository of samples for .NET Aspire. 
+* [aspire-samples](https://github.com/dotnet/aspire-samples) - Official repository of samples for .NET Aspire.
 * [eShop](https://github.com/dotnet/eShop) - An official .NET repository that demonstrates a complete .NET application implementing an eCommerce site.
 * [net-aspire-app](https://github.com/leventozz/net-aspire-app) - A basic project with a web frontend, a .NET Core Web API and a Redis cache.
 * [PizzaShop](https://github.com/iancooper/PizzaShop) - An example of a messaging pipeline, using Azure Service Bus and Kafka.
@@ -200,4 +200,4 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 ## Community
 
 * [Discord](https://aka.ms/aspire-discord) - The official Aspire Discord server.
-* [aspireify.net](https://aspireify.net/) - A blog regarding .NET Aspire - News, Samples and Tutorials.
+* [aspireify.net](https://aspireify.net/) - A blog regarding Aspire - News, Samples and Tutorials.
