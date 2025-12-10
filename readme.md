@@ -113,6 +113,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 ### Feature flags
 
+* [flagd](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Flagd/) - An Aspire hosting integration for flagd, a feature flag evaluation engine that provides a ready-made, open source, OpenFeature-compliant feature flag backend system.
 * [Go Feature Flag](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.GoFeatureFlag/) - An Aspire hosting integration leveraging the GoFeatureFlag container, with [client](https://www.nuget.org/packages/CommunityToolkit.Aspire.GoFeatureFlag/) integration.
 
 ### Logging
