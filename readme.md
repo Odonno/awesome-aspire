@@ -162,6 +162,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 
 * [Aspire.Hosting.Testing](https://www.nuget.org/packages/Aspire.Hosting.Testing) - Testing support for the .NET Aspire application model.
 * [k6](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.k6/) - An Aspire integration leveraging the Grafana k6 container.
+* [Microcks](https://www.nuget.org/packages/Microcks.Aspire) - An Aspire extension that enables hosting Microcks as a service, managing mocks for dependencies and contract-testing of your API endpoints.
 * [WireMock](https://www.nuget.org/packages/WireMock.Net.Aspire) - Lightweight Http Mocking Server for .NET, inspired by WireMock.org (from the Java landscape).
 
 ### Tools
