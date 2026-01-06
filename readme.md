@@ -138,6 +138,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 ### Programming languages
 
 * [Bun](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Bun) - A hosting integration for the Bun apps.
+* [Dart](https://github.com/dovijoel/DebuggingMadeJoyful.Aspire.Hosting.Dart) - A hosting integration for Flutter and Dart applications.
 * [Deno](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Deno) - A hosting integration for the Deno apps.
 * [Golang](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Golang) - A hosting integration Golang apps.
 * [Java](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.Java) - An integration for running Java code in .NET Aspire either using the local JDK or using a container.
