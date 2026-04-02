@@ -31,6 +31,7 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
   * [Tools](#tools)
 * [Sample Projects](#sample-projects)
 * [Videos](#videos)
+* [Books](#books)
 * [Community](#community)
 
 ## General
@@ -200,6 +201,10 @@ Thanks to all [contributors](https://github.com/Odonno/awesome-aspire/graphs/con
 * [.NET Aspire - Project Names and Constants](https://www.youtube.com/watch?v=Jt39GzYCRgo) - In this video, Jeff Fritz shows you how to customize how we name projects and reference them throughout the .NET Aspire system.
 * [End-to-end integration testing with .NET Aspire](https://www.youtube.com/watch?v=bPIu6PZW41Q) - This video talk how to use the testing features provided by .NET Aspire.
 * [Latest Features of .NET Aspire 9.4](https://www.youtube.com/watch?v=9ODsNkpyVDM) - Let's take a look at features introduced in .NET Aspire 9.4.
+
+## Books
+
+* [Pragmatic Microservices with C# and Azure: Build, deploy, and scale microservices efficiently to meet modern software demands](https://www.packtpub.com/en-us/product/pragmatic-microservices-with-c-and-azure-9781835088296) - This book from [Christian Nagel](https://www.linkedin.com/in/cnagel/) is the first book introducing .NET Aspire.
 
 ## Community
 
